@@ -1,0 +1,22 @@
+.corpo{
+    border: 5px solid;
+    border-color: darksalmon;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+.texto{
+    color: lightcoral;
+}
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 60%;
+    border: 2px solid lightcoral;
+    background-color: rgb(241, 214, 214);
+    color: lightcoral;
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
